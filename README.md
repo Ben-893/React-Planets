@@ -3,7 +3,7 @@ My first single page web app using React. The webpage displays a static list of 
 
 ### To Install
 ```
-git clone https://github.com/Ben-893/React-Planets && cd
+git clone https://github.com/Ben-893/React-Planets && cd React-Planets
 npm install -g http-server
 ```
 ### To Use
